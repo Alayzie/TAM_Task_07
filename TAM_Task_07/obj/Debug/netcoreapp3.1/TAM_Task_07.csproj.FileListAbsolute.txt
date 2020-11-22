@@ -1,0 +1,12 @@
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\bin\Debug\netcoreapp3.1\TAM_Task_07.exe
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\bin\Debug\netcoreapp3.1\TAM_Task_07.deps.json
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\bin\Debug\netcoreapp3.1\TAM_Task_07.runtimeconfig.json
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\bin\Debug\netcoreapp3.1\TAM_Task_07.runtimeconfig.dev.json
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\bin\Debug\netcoreapp3.1\TAM_Task_07.dll
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\bin\Debug\netcoreapp3.1\TAM_Task_07.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\obj\Debug\netcoreapp3.1\TAM_Task_07.AssemblyInfoInputs.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\obj\Debug\netcoreapp3.1\TAM_Task_07.AssemblyInfo.cs
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\obj\Debug\netcoreapp3.1\TAM_Task_07.csproj.CoreCompileInputs.cache
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\obj\Debug\netcoreapp3.1\TAM_Task_07.dll
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\obj\Debug\netcoreapp3.1\TAM_Task_07.pdb
+F:\ДОМАШНЕЕ ЗАДАНИЕ\ПРАКТИКА\1 НЕДЕЛЯ\TrainingPractice_01\TAM_Task_07\obj\Debug\netcoreapp3.1\TAM_Task_07.genruntimeconfig.cache
